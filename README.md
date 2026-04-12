@@ -37,7 +37,7 @@ project-folder/
 1. Download or clone the repository  
 2. Open `index.html` in a browser  
 3. Login using:  
-   Email: demo@swiftroute.com  
+   Email: admin@swiftroute.com
    Password: swift2025  
 
 ## 🌐 Live Demo
@@ -54,8 +54,9 @@ https://your-username.github.io/repository-name/
 - Role-based login system  
 
 ## 👨‍💻 Author
-Your Name  
-Your College  
+Bavana
+University College of Engineering,Nagercoil
+Kanniyakumari,Tamil Nadu,India
 
 ## 📜 License
 For educational purposes only
