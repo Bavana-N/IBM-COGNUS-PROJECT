@@ -41,7 +41,7 @@ project-folder/
    Password: swift2025  
 
 ## 🌐 Live Demo
-https://your-username.github.io/repository-name/
+[https://bavana-n.github.io/IBM-COGNUS-PROJECT/](https://bavana-n.github.io/IBM-COGNUS-PROJECT/)
 
 ## 📌 Use Case
 - Logistics management  
