@@ -38,7 +38,7 @@ project-folder/
 2. Open `index.html` in a browser  
 3. Login using:  
    Email: admin@swiftroute.com
-   Password: swift2025  
+   Password: admin123  
 
 ## 🌐 Live Demo
 [https://bavana-n.github.io/IBM-COGNUS-PROJECT/](https://bavana-n.github.io/IBM-COGNUS-PROJECT/)
